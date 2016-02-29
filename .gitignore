@@ -1,0 +1,5 @@
+node_modules
+public
+*.log
+*.tmp
+.DS_Store
